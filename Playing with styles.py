@@ -12,4 +12,5 @@ plt.legend('vvv')
 # Display the plot
 plt.show()
 
+#View all styles by typing print(plt.style.available) in the console.
 print(plt.style.available)
